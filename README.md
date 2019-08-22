@@ -23,9 +23,10 @@ Mentörler: [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/), [Yavuz Köme�
 **3.** Veri kümesi analizi için _COLAB_ çalışma ortamını kullanın!
 
 📌Veri Kümesi Analizi [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/) **Google Colab Not Defteri**  (Dataset analysis .ipynb eklenecek)
-**4.** 
-**5.**
-**6.**
+
+- **4.** 
+- **5.**
+- **6.**
 
 
 
