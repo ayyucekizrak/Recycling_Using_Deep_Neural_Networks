@@ -9,4 +9,8 @@
 
 :bookmark_tabs: Makale (Paper): [RecycleNet: Intelligent Waste Sorting Using Deep Neural Networks](https://ieeexplore.ieee.org/document/8466276)
 
+:computer:[Browserda test etmek için](http://www.ayyucekizrak.com/apps/recyclenet/)
+
+:iphone: [iOS Mobil Uygulaması için CoreML Script](https://github.com/jctcsolutions/trashNet/blob/master/toCoreML/converter.py)
+
 
