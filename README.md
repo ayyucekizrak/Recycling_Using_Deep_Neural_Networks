@@ -17,10 +17,10 @@ Mentörler: [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/), [Yavuz Köme�
 ---
 ### İzlenecek Adımlar
 
-**0.** Gmail hesabına sahip olmak! :grinning:
-**1.** Drive'da oluşturduğunuz _Recycle_ klasörüne; [buradan](https://drive.google.com/open?id=1FFJElHGdodlIgqXfq3reQt5n3-bB1g7u) sizin için **eğitim (train)-geçerleme/doğrulama (validation)-test kümesi** olarak hazırlanmış veri klasörünü indirip:small_red_triangle_down: ekleyiniz :small_red_triangle:! 
-**2.** Veri kümesinin bulunduğu klasörün ismi _verikümesi_ içindeki klasörlerinde train, val ve test olduğuna dikkat edin!
-**3.** Veri kümesi analizi için _COLAB_ çalışma ortamını kullanın!
+- **0.** Gmail hesabına sahip olmak! :grinning:
+- **1.** Drive'da oluşturduğunuz _Recycle_ klasörüne; [buradan](https://drive.google.com/open?id=1FFJElHGdodlIgqXfq3reQt5n3-bB1g7u) sizin için **eğitim (train)-geçerleme/doğrulama (validation)-test kümesi** olarak hazırlanmış veri klasörünü indirip:small_red_triangle_down: ekleyiniz :small_red_triangle:! 
+- **2.** Veri kümesinin bulunduğu klasörün ismi _verikümesi_ içindeki klasörlerinde train, val ve test olduğuna dikkat edin!
+- **3.** Veri kümesi analizi için _COLAB_ çalışma ortamını kullanın!
 
 📌Veri Kümesi Analizi [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/) **Google Colab Not Defteri**  (Dataset analysis .ipynb eklenecek)
 
