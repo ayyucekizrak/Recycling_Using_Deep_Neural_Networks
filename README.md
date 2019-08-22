@@ -14,6 +14,7 @@ Mentörler: [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/), [Yavuz Köme�
 :computer:[Browserda test etmek için](http://www.ayyucekizrak.com/apps/recyclenet/)
 
 :iphone: [iOS Mobil Uygulaması için CoreML Script](https://github.com/jctcsolutions/trashNet/blob/master/toCoreML/converter.py)
+
 ---
 ### İzlenecek Adımlar
 
