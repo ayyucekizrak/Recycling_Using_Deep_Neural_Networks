@@ -1,0 +1,1 @@
+Geçerleme/Doğrulama veri kümesi!
