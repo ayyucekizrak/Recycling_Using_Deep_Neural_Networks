@@ -28,6 +28,9 @@ Mentörler: [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/), [Yavuz Köme�
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/open?id=1zy-XeqswQXRBmhtQB2_oHgm0Ytuwp6Nc) **Dataset Analysis**  
 
+---
+
+_Çözüm çalışma tamamlandırktan sonra eklenecektir!_
 
 
 
