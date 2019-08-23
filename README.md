@@ -23,12 +23,10 @@ Mentörler: [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/), [Yavuz Köme�
 - **1.** Drive'da oluşturduğunuz _Recycle_ klasörüne; [buradan](https://github.com/ayyucekizrak/Recycling_Using_Deep_Neural_Networks/tree/master/verikumesi) sizin için **eğitim (train)-geçerleme/doğrulama (validation)-test kümesi** olarak hazırlanmış veri klasörünü  indirin:small_red_triangle_down: 
 - **2.** Veri kümesinin bulunduğu klasörü drive'ınıza ismi ile **verikumesi** yükleyin ve içindeki klasörlerinde train, val ve test olduğuna dikkat edin!
 - **3.** Veri kümesi analizi için _COLAB_ çalışma ortamını kullanın!
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/open?id=1zy-XeqswQXRBmhtQB2_oHgm0Ytuwp6Nc) **Dataset Analysis**  
-
 - **4.** Etiketli verileri sınıflandırma probleminin çözümü için evrişimli sinir ağı temelli bir yaklaşım benimsemeniz uygun olacaktır.
 - **5.** Akademik makaleyi ve TrashNet raporunu takip edebilirsiniz!
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/open?id=1zy-XeqswQXRBmhtQB2_oHgm0Ytuwp6Nc) **Dataset Analysis**  
 
 
 
