@@ -19,11 +19,11 @@ Mentörler: [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/), [Yavuz Köme�
 ### İzlenecek Adımlar
 
 - **0.** Gmail hesabına sahip olmak! :grinning: Colab'ı kullanabilmek için gerekli!
-- **1.** Drive'da oluşturduğunuz _Recycle_ klasörüne; [buradan](https://drive.google.com/open?id=1FFJElHGdodlIgqXfq3reQt5n3-bB1g7u) sizin için **eğitim (train)-geçerleme/doğrulama (validation)-test kümesi** olarak hazırlanmış veri klasörünü  indirip:small_red_triangle_down: 
-- **2.** Veri kümesinin bulunduğu klasörün ismi **verikumesi** içindeki klasörlerinde train, val ve test olduğuna dikkat edin!
+- **1.** Drive'da oluşturduğunuz _Recycle_ klasörüne; [buradan](https://drive.google.com/open?id=1FFJElHGdodlIgqXfq3reQt5n3-bB1g7u) sizin için **eğitim (train)-geçerleme/doğrulama (validation)-test kümesi** olarak hazırlanmış veri klasörünü  indirin:small_red_triangle_down: 
+- **2.** Veri kümesinin bulunduğu klasörü drive'ınıza ismi ile **verikumesi** yükleyin ve içindeki klasörlerinde train, val ve test olduğuna dikkat edin!
 - **3.** Veri kümesi analizi için _COLAB_ çalışma ortamını kullanın!
 
-📌 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/open?id=1zy-XeqswQXRBmhtQB2_oHgm0Ytuwp6Nc) **Google Colab Not Defteri**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/open?id=1zy-XeqswQXRBmhtQB2_oHgm0Ytuwp6Nc) **Dataset Analysis**  
 
 - **4.** 
 - **5.**
